@@ -1,0 +1,45 @@
+PODS:
+  - ReactorKit (3.0.0):
+    - RxSwift (~> 6.0)
+    - WeakMapTable (~> 1.1)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxGesture (4.0.2):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SwiftLint (0.43.1)
+  - WeakMapTable (1.2.0)
+
+DEPENDENCIES:
+  - ReactorKit
+  - RxCocoa
+  - RxGesture
+  - RxSwift
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - ReactorKit
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SwiftLint
+    - WeakMapTable
+
+SPEC CHECKSUMS:
+  ReactorKit: 5348c9881dcb546605b451e32759dccc9937d36e
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxGesture: f059f2aeef966fb17dad56ee440e76410f10e55f
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+  WeakMapTable: 05c694ce8439a7a9ebabb56187287a63c57673d6
+
+PODFILE CHECKSUM: 35c2d0de33ff9f569952a178b8fbd3183b5a1a00
+
+COCOAPODS: 1.11.0
